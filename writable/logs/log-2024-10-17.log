@@ -1,0 +1,835 @@
+CRITICAL - 2024-10-17 03:08:25 --> Error: Class "App\Models\PemesananMobilModel" not found
+[Method: GET, Route: pemesananmobil/data]
+in APPPATH\Controllers\PemesananMobil.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\PemesananMobil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+CRITICAL - 2024-10-17 03:15:15 --> Error: Class "App\Models\PemesananMobilModel" not found
+[Method: GET, Route: pemesananmobil/data]
+in APPPATH\Controllers\PemesananMobil.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\PemesananMobil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+CRITICAL - 2024-10-17 03:23:10 --> Error: Class "App\Models\PemesananMobilModel" not found
+[Method: GET, Route: pemesananmobil/data]
+in APPPATH\Controllers\PemesananMobil.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\PemesananMobil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+CRITICAL - 2024-10-17 03:23:12 --> Error: Class "App\Models\PemesananMobilModel" not found
+[Method: GET, Route: pemesananmobil/data]
+in APPPATH\Controllers\PemesananMobil.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\PemesananMobil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+CRITICAL - 2024-10-17 03:24:37 --> Error: Class "App\Models\PemesananMobilModel" not found
+[Method: GET, Route: pemesananmobil/data]
+in APPPATH\Controllers\PemesananMobil.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\PemesananMobil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+CRITICAL - 2024-10-17 03:24:38 --> Error: Class "App\Models\PemesananMobilModel" not found
+[Method: GET, Route: pemesananmobil/data]
+in APPPATH\Controllers\PemesananMobil.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\PemesananMobil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+CRITICAL - 2024-10-17 03:24:39 --> Error: Class "App\Models\PemesananMobilModel" not found
+[Method: GET, Route: pemesananmobil/data]
+in APPPATH\Controllers\PemesananMobil.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\PemesananMobil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+CRITICAL - 2024-10-17 03:40:54 --> TypeError: CodeIgniter\RESTful\ResourceController::respond(): Argument #3 ($message) must be of type string, array given, called in C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php on line 74
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\API\ResponseTrait.php on line 92.
+ 1 APPPATH\Controllers\PemesananMobil.php(74): CodeIgniter\RESTful\ResourceController->respond([...], 200, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:54:02 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(610): CodeIgniter\Model->doFind(true, '0')
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(56): CodeIgniter\BaseModel->find('0')
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->show('0')
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(610): CodeIgniter\Model->doFind(true, '0')
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(56): CodeIgniter\BaseModel->find('0')
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->show('0')
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-10-17 04:54:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/show/0]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`
+WHERE `pemesanan_mobil`.`id_pemesanan` = :pemesanan_mobil.id_pemesanan:', [...], false)
+ 3 SYSTEMPATH\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(610): CodeIgniter\Model->doFind(true, '0')
+ 5 APPPATH\Controllers\PemesananMobil.php(56): CodeIgniter\BaseModel->find('0')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->show('0')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:54:08 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 04:54:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:54:18 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 04:54:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:54:33 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 04:54:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:55:02 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 04:55:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:55:37 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 04:55:37 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:56:22 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 04:56:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 04:58:28 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 04:58:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 05:00:00 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 05:00:00 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 05:01:14 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 05:01:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 05:01:58 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 05:01:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 05:03:51 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 05:03:51 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 05:04:29 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 05:04:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
+ERROR - 2024-10-17 05:06:17 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'serveruts', 3306, '', 0)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\uts_webservice_pemesanan_mobil-server\app\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+#7 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+#8 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+#9 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\uts_webservice_pemesanan_mobil-server\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\laragon\www\uts_webservice_pemesanan_mobil-server\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2024-10-17 05:06:17 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: pemesananmobil/data]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemesanan_mobil`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\PemesananMobilModel.php(25): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\PemesananMobil.php(69): App\Models\PemesananMobilModel->getPemesananMobil()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemesananMobil->getPemesananMobil()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemesananMobil))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\uts_webservice_pemesanan_mobil-server\\public\\index.php')
