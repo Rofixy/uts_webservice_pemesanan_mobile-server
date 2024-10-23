@@ -28,6 +28,7 @@ class PemesananMobil extends ResourceController
         $input_data = $this->request->getJSON(true);
         if ($input_data) {
             $data = [
+                'id_pemesanan'      => $input_data['id_pemesanan'] ?? '',
                 'id_mobil'          => $input_data['id_mobil'] ?? '',
                 'id_customer'       => $input_data['id_customer'] ?? '',
                 'id_sopir'          => $input_data['id_sopir'] ?? '',
@@ -81,6 +82,7 @@ class PemesananMobil extends ResourceController
 
         if ($input_data) {
             $data = [
+                'id_pemesanan'      => $input_data['id_pemesanan'] ?? '',
                 'id_mobil'          => $input_data['id_mobil'] ?? '',
                 'id_customer'       => $input_data['id_customer'] ?? '',
                 'id_sopir'          => $input_data['id_sopir'] ?? '',
